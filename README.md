@@ -1,5 +1,10 @@
 ### RestaurantReviewSystem
 
+## How to run locally?
+Inside RestaurantReviewSystem project directory run the following commands
+- npm install
+- node index.js
+
 ## APIs
 
 #For User SignUp
