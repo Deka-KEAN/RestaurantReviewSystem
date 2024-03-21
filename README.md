@@ -1,4 +1,4 @@
-### RestaurantReviewSystem
+## RestaurantReviewSystem
 
 ## How to run locally?
 Inside RestaurantReviewSystem project directory run the following commands
